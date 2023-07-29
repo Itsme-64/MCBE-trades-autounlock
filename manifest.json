@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Itsme64's All Villager Trades Unlocked Pack",
+		"description": "This pack automatically unlocks all villager trades for you, meaning you won't have to level up the villager in order to get to the (for example) diamond gear.",
+		"uuid": "9915d2cf-116a-4f8a-840c-e55c00561181",
+		"version": [ 1, 2, 1],
+		"min_engine_version": [1,13,0]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "bf38d4ea-44b4-4e3b-af9c-f5515be862c0",
+			"version": [ 1, 2, 1]
+		}
+	]
+}
